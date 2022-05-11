@@ -1,6 +1,7 @@
 # Custom_DeepStream
 ## Introduction
 This project aims to create a customized pipeline (array input to rtsp output).
+To elaborate, please see the pipeline png image.
 ## Refference
 1. https://blog.csdn.net/qq_38032876/article/details/109820358
 2. https://blog.csdn.net/Tosonw/article/details/104286028
