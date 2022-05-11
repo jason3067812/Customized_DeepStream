@@ -1,0 +1,13 @@
+# Custom_DeepStream
+## Introduction
+This project aims to create a customized pipeline (array input to rtsp output).
+## Refference
+1. https://blog.csdn.net/qq_38032876/article/details/109820358
+2. https://blog.csdn.net/Tosonw/article/details/104286028
+3. https://github.com/NVIDIA-AI-IOT/deepstream_python_apps/tree/master/apps/deepstream-test1-rtsp-out
+4. https://forums.developer.nvidia.com/t/appsrc-with-numpy-input-in-python/120611
+
+
+
+
+
