@@ -2,7 +2,7 @@
 ## Introduction
 This project aims to create a customized pipeline (array input to rtsp output).<br>
 To elaborate, please see the pipeline png image.
-## Refference
+## Reference
 1. https://blog.csdn.net/qq_38032876/article/details/109820358
 2. https://blog.csdn.net/Tosonw/article/details/104286028
 3. https://github.com/NVIDIA-AI-IOT/deepstream_python_apps/tree/master/apps/deepstream-test1-rtsp-out
