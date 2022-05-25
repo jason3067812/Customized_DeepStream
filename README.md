@@ -1,10 +1,17 @@
 # Custom_DeepStream
 ## Abstract
 - This project aims to create a customized pipeline (array input to rtsp output).
-- Run live_demo.py to confirm that the pipeline is established successfully.
+
+
+
+## Usage
+Run live_demo.py to confirm that the pipeline is established successfully.
+
+
 ## Demo
 1. https://www.youtube.com/watch?v=BF-mr3Fs-Hw&ab_channel=TechnologyGoldenRetriever
 2. https://www.youtube.com/watch?v=LdA_vVY89II&ab_channel=TechnologyGoldenRetriever
+
 ## Reference
 1. https://blog.csdn.net/qq_38032876/article/details/109820358
 2. https://blog.csdn.net/Tosonw/article/details/104286028
