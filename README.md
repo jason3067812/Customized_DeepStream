@@ -15,6 +15,11 @@ Generating a Deepstream pipeline is roughly divided into four parts: <br>
 - Goal: Implement input array to output rtsp
 - Process: Appsrc -> nvvideoconvert 1 -> capsfilter1 -> streammux -> nvvideoconvert2 -> capsfilter2 -> h264encoder -> h264parser -> rtppay -> udpsink
 
+## Pipeline Visualization
+
+![image](https://user-images.githubusercontent.com/56544982/170411903-17f0f680-2caa-4c9a-94e4-087e8d46b809.png)
+
+
 
 
 
