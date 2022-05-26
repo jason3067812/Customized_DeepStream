@@ -2,6 +2,12 @@
 ## Abstract
 - This project aims to create a customized pipeline (array input to rtsp output).
 
+## Introduction
+
+Generating a Deepstream pipeline is roughly divided into four parts:
+1.
+2.
+3.
 
 
 ## Usage
