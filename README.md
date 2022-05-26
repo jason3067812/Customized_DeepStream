@@ -5,7 +5,10 @@
 ## Introduction
 
 Generating a Deepstream pipeline is roughly divided into four parts: <br>
-1.
+1. Create element
+2. Set the property of each element
+3. Add element into the pipeline
+4. Link the required elements in order
 
 
 
