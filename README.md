@@ -17,14 +17,11 @@ Generating a Deepstream pipeline is roughly divided into four parts: <br>
 
 ## Pipeline Visualization
 
-
-
-
-
+![deepstream_test3_pipeline](https://user-images.githubusercontent.com/56544982/170412439-79d36162-675e-432d-b880-f18b481f9193.png)
 
 
 ## Usage
-- Run graph_pipeline inside  to visualize pipeline
+- Run graph_pipeline function inside eric3_final_class.py to visualize the pipeline.
 - Run live_demo.py to confirm that the pipeline is established successfully.
 
 
