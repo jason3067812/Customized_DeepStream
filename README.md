@@ -2,13 +2,19 @@
 ## Abstract
 - This project aims to create a customized pipeline (array input to rtsp output).
 
-## Introduction
+## Pipeline Introduction
 
 Generating a Deepstream pipeline is roughly divided into four parts: <br>
 1. Create element
 2. Set the property of each element
 3. Add element into the pipeline
 4. Link the required elements in order
+
+## Our customized Pipeline Introduction
+
+- Goal => Implement input array to output rtsp
+- Process: Appsrc -> nvvideoconvert 1 -> capsfilter1 -> streammux -> nvvideoconvert2 -> capsfilter2 -> h264encoder -> h264parser -> rtppay -> udpsink
+
 
 
 
