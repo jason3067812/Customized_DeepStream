@@ -4,10 +4,9 @@
 
 ## Introduction
 
-Generating a Deepstream pipeline is roughly divided into four parts:
+Generating a Deepstream pipeline is roughly divided into four parts: <br>
 1.
-2.
-3.
+
 
 
 ## Usage
