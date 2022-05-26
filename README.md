@@ -17,7 +17,7 @@ Generating a Deepstream pipeline is roughly divided into four parts: <br>
 
 ## Pipeline Visualization
 
-Please see details in deepstream_test3_pipeline.png.
+Please see details in our_pipeline.png.
 
 ## Usage
 - Run graph_pipeline function inside eric3_final_class.py to visualize the pipeline.
