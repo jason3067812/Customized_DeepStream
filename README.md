@@ -20,9 +20,8 @@ Generating a Deepstream pipeline is roughly divided into four parts: <br>
 Please see details in pipeline.png.
 
 ## Usage
-- Run graph_pipeline function inside final_class.py to visualize the pipeline.
-- Run live_demo.py to confirm that the pipeline is established successfully.
-
+- Run class "Deepstream_Array_To_Rtsp" to initialize and build the pipeline
+- Run function "graph_pipeline" to visualize the pipeline.
 
 ## Demo
 1. https://www.youtube.com/watch?v=BF-mr3Fs-Hw&ab_channel=TechnologyGoldenRetriever
