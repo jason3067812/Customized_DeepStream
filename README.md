@@ -24,7 +24,7 @@ Generating a Deepstream pipeline is roughly divided into four parts: <br>
 
 
 ## Usage
-- Run  to visualize pipeline
+- Run graph_pipeline inside  to visualize pipeline
 - Run live_demo.py to confirm that the pipeline is established successfully.
 
 
