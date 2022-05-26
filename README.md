@@ -1,4 +1,4 @@
-# Custom_DeepStream
+# Customized_DeepStream
 ## Abstract
 This project aims to create a customized pipeline (array input to rtsp output).
 
